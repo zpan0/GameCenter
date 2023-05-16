@@ -1,0 +1,66 @@
+body{
+    background: black;
+}
+#entire{
+    margin: 20px;
+    background: black;
+}
+.nav{
+    margin: 10px;
+    background: white;
+    border-radius: 5px;
+    color: black;
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+}
+.nav:hover{
+    background: rgb(149, 149, 149);
+    color: black;
+}
+.nav:focus{
+    background: rgb(149, 149, 149);
+    color: black;
+}
+#body{
+    padding: 10px;
+    color: white;
+}
+#bodyText{
+    font-family:'Courier New', monospace;
+    font-size: 100px;
+    color: greenyellow;
+    text-align: center;
+}
+#loginText{
+    font-family:'Courier New', monospace;
+    color: greenyellow;
+    text-align: center;
+    font-weight: bold;
+}
+.text-center {
+    text-align: center;
+}
+#inputLabels{
+    font-family:'Courier New', monospace;
+    font-size: 20px;
+    color: greenyellow;
+}
+#submitBtn{
+    border: none;
+    padding: 9px;   padding-left: 15px;     padding-right: 15px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-family:'Courier New', monospace;   font-size: 20px;
+    font-weight: bold;
+}
+#submitBtn:hover{
+    background: greenyellow;
+    color: black;
+}
+#submitBtn:focus{
+    background: greenyellow;
+    color: black;
+}
+table{
+    border-radius: 50px;
+}
